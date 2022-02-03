@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Data Science"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "M Kim"
+description              : "Data Science and Machine Learning Blog"
+url                      : "https://minjung-mj-kim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "minjung-mj-kim/minjung-mj-kim.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -66,7 +66,7 @@ algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  powered_by             : false # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -102,18 +102,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "M Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Nomad"
+  location         : # "Chicago, US"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:kim.m.public@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      #url: "https://www.linkedin.com/in/minjung-mj-kim/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -122,7 +122,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      #url: "https://github.com/minjung-mj-kim"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
