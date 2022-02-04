@@ -59,7 +59,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "M Kim"
+  name             : # ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Nomad"
-  location         : # "Chicago, US"
+  bio              : # ""
+  location         : # ""
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kim.m.public@gmail.com"
+      #url: "mailto:??@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
       #url: "https://www.linkedin.com/in/minjung-mj-kim/"
@@ -130,15 +130,16 @@ author:
 # Site Footer
 footer:
   links:
+
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
+    - label: "" # "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/minjung-mj-kim
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -148,6 +149,12 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: ""# "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/minjung-mj-kim/"
+    - label: "" # "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:kim.mj.minjung@gmail.com"
 
 
 # Reading Files
@@ -283,8 +290,35 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
+      show_date: true
       comments: # true
       share: true
       related: true
+      toc: true
+      toc_sticky: true
+      toc_label: "Contents"
+      sidebar:
+        nav: "sidebarsetting"
+
+
+ # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      show_date: true
+      comments: false
+      share: true
+      related: false
+      toc: true
+      toc_sticky: true
+      toc_label: "Contents"
+      sidebar:
+        nav: "sidebarsetting"
+        # Sidebar settings, key defined at _data/navigation.yml
+

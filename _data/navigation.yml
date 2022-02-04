@@ -12,7 +12,30 @@ main:
   #   url: /sitemap/
 
 
-  - title: "Home"
-    url: https://minjung-mj-kim.github.io
+ # - title: "Home"
+ #   url: / #https://minjung-mj-kim.github.io
+  - title: "About"
+    url: /intro/
+  - title: "Projects"
+    url: /categories/projects/
   - title: "Category"
     url: /categories/
+  - title: "Tags"
+    url: /tags/
+
+# https://mmistakes.github.io/minimal-mistakes/docs/layouts/#custom-sidebar-content
+sidebarsetting:
+  - title: "Intro"
+    children:
+        - title: "Blog overview"
+          url: /intro/
+  - title: "Data collection"
+    url: /categories/data/
+  - title: "Pre-modeling"
+    url: /categories/premodel/
+  - title: "Machine learning"
+    url: /categories/ml/
+  - title: "Tips"
+    url: /categories/tips/
+  - title: "Projects"
+    url: /categories/projects/
