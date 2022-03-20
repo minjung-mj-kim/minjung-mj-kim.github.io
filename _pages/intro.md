@@ -24,7 +24,7 @@ This category will cover necessary handworks before feed data into a machine lea
 
 ## Machine learning
 
-Now you have well prepared data as input of your machine learning model. There are **various machine learning models**, from simple linear regression model to **neural network variations** (e.g. CNN, RNN, LSTM) and **decision tree models** (e.g. Random forest, Gradient boost). For any model, **learning process** includes choice of **metric**, **optimization** algorithm and **regularization** techniques, **hyperparameter tuning**, and **evaluation and** **improvement** of the model. In addition, there are useful learning techniques/methods such as **transfer learning**.
+Now you have well prepared data as input of your machine learning model. There are **various machine learning models**, from simple linear regression model to **neural network variations** (e.g. CNN, RNN, LSTM) and **decision tree models** (e.g. Random forest, Gradient boost). For any model, **learning process** includes choice of **metric**, **optimization** algorithm and **regularization** techniques, **hyperparameter tuning**, and **evaluation and** **improvement** of the model. In addition, there are useful learning **techniques/methods** such as **transfer learning** and **ensemble learning**.
 
 This category will cover introduction of various machine learning models, model specific topics, training/test/improvement process and tips, and machine learning glossary including topics highlighed with bold text.
 
