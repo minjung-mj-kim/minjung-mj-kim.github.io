@@ -29,3 +29,8 @@ _asset_bundler_cache
 _site
 
 _draft*
+
+# mj personal
+*/draft_*
+*/.ipynb_checkpoints
+*/backup
