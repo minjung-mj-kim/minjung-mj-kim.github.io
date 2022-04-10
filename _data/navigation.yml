@@ -35,6 +35,10 @@ sidebarsetting:
     url: /categories/premodel/
   - title: "Machine learning"
     url: /categories/ml/
+  - title: "Computer sciences"
+    children:
+        - title: "Data structures"
+          url: /categories/cs_ds/
   - title: "Tips"
     url: /categories/tips/
   - title: "Projects"
