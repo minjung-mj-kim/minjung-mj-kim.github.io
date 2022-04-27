@@ -6,3 +6,4 @@ taxonomy: "Data structure"
 ---
 
 Posts about data structure and algorithm.
+Any comment or code review will be appreciated...  a lot.
