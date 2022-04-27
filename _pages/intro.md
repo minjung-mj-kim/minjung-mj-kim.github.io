@@ -28,6 +28,10 @@ Now you have well prepared data as input of your machine learning model. There a
 
 This category will cover introduction of various machine learning models, model specific topics, training/test/improvement process and tips, and machine learning glossary including topics highlighed with bold text.
 
+## Computer sciences
+This category will introduce computer science topics which are useful for programming.
+Each post will be a short summary.
+
 ## Tips
 
 This category will cover **any useful tip** including data science skills and soft skills.
