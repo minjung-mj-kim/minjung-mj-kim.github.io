@@ -6,4 +6,5 @@ taxonomy: "Data structure"
 ---
 
 Posts about data structure and algorithm.
-Any comment or code review will be appreciated...  a lot.
+All the lecture notes I read showed implementation codes written in either C++ or Java.
+Since I changed them into Python codes, any code review will be appreciated...  a lot.
