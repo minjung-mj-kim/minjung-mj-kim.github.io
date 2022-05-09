@@ -11,7 +11,7 @@ toc: false
 
 ---
 
-*Merge revenue, wage, and census data to analyze dancer's revenue prediction*
+*Merge revenue, wage, census, and price index data to analyze dancer's revenue prediction*
 
 
 I'm looking for the best Metropolitan area in the U.S. where I can be a belly dancer. 
