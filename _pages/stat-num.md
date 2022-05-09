@@ -1,6 +1,6 @@
 ---
 title: "Statistics: Numeric Data"
-permalink: /categories/stat/num
+permalink: /categories/stat/num/
 layout: category
 taxonomy: "Stat-num"
 ---

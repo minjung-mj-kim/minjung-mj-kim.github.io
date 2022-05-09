@@ -1,6 +1,6 @@
 ---
 title: "Projects: Fake News"
-permalink: /categories/projects/fn
+permalink: /categories/projects/fn/
 layout: category
 taxonomy: "Projects-fn"
 ---

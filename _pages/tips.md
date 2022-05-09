@@ -1,6 +1,6 @@
 ---
 title: "Github Blog Tips"
-permalink: /categories/tips/blog
+permalink: /categories/tips/blog/
 layout: category
 taxonomy: "Tips-blog"
 ---

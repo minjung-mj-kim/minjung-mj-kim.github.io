@@ -1,6 +1,6 @@
 ---
 title: "Web Scrapings"
-permalink: /categories/data/webs
+permalink: /categories/data/webs/
 layout: category
 taxonomy: "Data-webs"
 ---

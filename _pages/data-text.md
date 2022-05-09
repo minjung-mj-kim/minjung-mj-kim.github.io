@@ -1,6 +1,6 @@
 ---
 title: "Text-Preprocessings"
-permalink: /categories/data/text
+permalink: /categories/data/text/
 layout: category
 taxonomy: "Data-text"
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "About"
-permalink: /intro
+permalink: /intro/
 ---
 
 # Contact

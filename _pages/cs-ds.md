@@ -1,6 +1,6 @@
 ---
 title: "Data structure"
-permalink: /categories/cs/ds
+permalink: /categories/cs/ds/
 layout: category
 taxonomy: "Cs-ds"
 ---

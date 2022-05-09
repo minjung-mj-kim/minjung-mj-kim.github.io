@@ -1,6 +1,6 @@
 ---
 title: "Tabular Data"
-permalink: /categories/data/tab
+permalink: /categories/data/tab/
 layout: category
 taxonomy: "Data-tab"
 ---

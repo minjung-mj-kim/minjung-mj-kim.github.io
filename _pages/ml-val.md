@@ -1,6 +1,6 @@
 ---
 title: "Validation and Interpretation of Machine Learning Models"
-permalink: /categories/ml/val
+permalink: /categories/ml/val/
 layout: category
 taxonomy: "Ml-val"
 ---
