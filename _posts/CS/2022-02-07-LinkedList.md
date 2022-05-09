@@ -1,7 +1,7 @@
 ---
 title:  "Linked List"
 categories:
-  - Data structure
+  - Cs-ds
 tags:
   - Computer sciences
   - Data structure
@@ -114,6 +114,8 @@ insert 3
 # Cons
 - Complicated implementation.
 - Fragmented memory allocation.
+- Extra space than array for pointers.
+- No direct access to an element in the middle.
 - Traverse only one direction, from head to tail.
 
 

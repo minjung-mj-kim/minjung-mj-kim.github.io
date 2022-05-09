@@ -1,8 +1,8 @@
 ---
-title: "Tips"
-permalink: /categories/tips/
+title: "Github Blog Tips"
+permalink: /categories/tips/blog
 layout: category
-taxonomy: "Tips"
+taxonomy: "Tips-blog"
 ---
 
-Posts about useful tips.
+Posts about useful tips of Github blog.

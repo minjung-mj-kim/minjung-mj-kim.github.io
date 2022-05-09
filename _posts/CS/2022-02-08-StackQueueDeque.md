@@ -1,7 +1,7 @@
 ---
 title:  "Stack, Queue, and Deque"
 categories:
-  - Data structure
+  - Cs-ds
 tags:
   - Computer sciences
   - Data structure

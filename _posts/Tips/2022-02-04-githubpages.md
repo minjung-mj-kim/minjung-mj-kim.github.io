@@ -1,7 +1,7 @@
 ---
 title:  "The shortest intro of GitHub Pages"
 categories:
-  - Tips
+  - Tips-blog
 tags:
   - Tips
   - GitHub Pages

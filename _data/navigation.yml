@@ -16,8 +16,8 @@ main:
  #   url: / #https://minjung-mj-kim.github.io
   - title: "About"
     url: /intro/
-  - title: "Projects"
-    url: /categories/projects/
+#  - title: "Projects"
+#    url: /categories/projects/
   - title: "Category"
     url: /categories/
   - title: "Tags"
@@ -26,20 +26,44 @@ main:
 # https://mmistakes.github.io/minimal-mistakes/docs/layouts/#custom-sidebar-content
 sidebarsetting:
   - title: "Intro"
+    #url: /categories/intro/
     children:
-        - title: "Blog overview"
+        - title: "About"
           url: /intro/
-  - title: "Data collection"
-    url: /categories/data/
-  - title: "Pre-modeling"
-    url: /categories/premodel/
-  - title: "Machine learning"
-    url: /categories/ml/
-  - title: "Computer sciences"
+  - title: "Data Preperation"
+    #url: /categories/data/
     children:
-        - title: "Data structures"
-          url: /categories/cs_ds/
+        - title: "Tabular Data"
+          url: /categories/data/tab
+        - title: "Web Scrapings"
+          url: /categories/data/webs
+        - title: "Text-Preprocessings"
+          url: /categories/data/text
+  - title: "Statistics"
+    children: 
+        - title: "Numeric Data"
+          url: /categories/stat/num
+  - title: "Machine Learnings"
+    #url: /categories/ml/
+    children:
+        - title: "Traditional Models"
+          url: /categories/ml/trad
+        - title: "Advanced Models"
+          url: /categories/ml/adv
+        - title: "Validation/Interpretation"
+          url: /categories/ml/val        
+  - title: "Computer Sciences"
+    children:
+        - title: "Data Structures"
+          url: /categories/cs/ds/
   - title: "Tips"
-    url: /categories/tips/
+    #url: /categories/tips/
+    children:
+        - title: "Github Blog Stuffs"
+          url: /categories/tips/blog
   - title: "Projects"
-    url: /categories/projects/
+    #url: /categories/projects/
+    children:
+        - title: "Fake News"
+          url: /categories/projects/fn
+    

@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : # ""
+  name             : #""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # ""
-  location         : # ""
+  location         : #""
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:??@gmail.com"
+      #url: "mailto:@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
       #url: "https://www.linkedin.com/in/minjung-mj-kim/"
@@ -122,7 +122,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: "https://github.com/minjung-mj-kim"
+      #url: √
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "" # "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/minjung-mj-kim
+      url: "https://github.com/minjung-mj-kim"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -149,7 +149,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: ""# "LinkedIn"
+    - label: "" # "LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/minjung-mj-kim/"
     - label: "" # "Email"
