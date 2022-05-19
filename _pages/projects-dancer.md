@@ -1,5 +1,5 @@
 ---
-title: "Dancer's Business"
+title: "Dancer's business"
 permalink: /categories/projects/db/
 layout: category
 taxonomy: "Projects-db"

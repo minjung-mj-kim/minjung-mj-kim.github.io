@@ -1,5 +1,5 @@
 ---
-title: "Projects: Fake News"
+title: "Fake news"
 permalink: /categories/projects/fn/
 layout: category
 taxonomy: "Projects-fn"

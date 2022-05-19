@@ -46,12 +46,10 @@ sidebarsetting:
   - title: "Machine Learnings"
     #url: /categories/ml/
     children:
-        - title: "Traditional Models"
-          url: /categories/ml/trad/
-        - title: "Advanced Models"
-          url: /categories/ml/adv/
-        - title: "Validation/Interpretation"
-          url: /categories/ml/val/        
+        - title: "Practice project"
+          url: /categories/ml/p/
+        - title: "Technique/Term/Etc"
+          url: /categories/ml/e/        
   - title: "Computer Sciences"
     children:
         - title: "Data Structures"
@@ -61,10 +59,10 @@ sidebarsetting:
     children:
         - title: "Github Blog Stuffs"
           url: /categories/tips/blog/
-  - title: "Projects"
+  - title: "Portfolio"
     #url: /categories/projects/
     children:
-        - title: "Fake News"
+        - title: "Fake news"
           url: /categories/projects/fn/
-        - title: "Dancer's Business"
+        - title: "Dancer's business"
           url: /categories/projects/db/    
