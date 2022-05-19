@@ -13,4 +13,4 @@ Minjung Kim
 
 # About this blog
 
-This blog will cover essential data science topics which are necessary to complete a machine learning project and introduce my personal projects under **Projects** category.
+This blog will cover essential data science topics which are necessary to complete a machine learning project and introduce my personal projects under **Portfolio** category.
