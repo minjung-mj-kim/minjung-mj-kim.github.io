@@ -46,7 +46,7 @@ sidebarsetting:
   - title: "Machine Learnings"
     #url: /categories/ml/
     children:
-        - title: "Practice project"
+        - title: "Small project"
           url: /categories/ml/p/
         - title: "Technique/Term/Etc"
           url: /categories/ml/e/        
